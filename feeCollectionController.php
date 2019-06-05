@@ -1,6 +1,6 @@
 <?php
 namespace App\Http\Controllers;
-
+//first change
 class feeCollectionController extends Controller {
 
 	var $data = array();
